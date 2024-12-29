@@ -59,14 +59,14 @@
 - [Twilio Java SDK](https://www.twilio.com/docs/libraries/java) 📲
 
 ## 📸 Screenshots
-*(Add screenshots of the application here)*
+![Screenshot 2024-11-18 212110](https://github.com/user-attachments/assets/aac01b35-43fe-4eee-b09e-f4d3385b9576)
 
 ## ⚠️ Limitations
 - ❌ The program does not include input validation for API keys or phone numbers during setup.
 - ❌ Limited error handling for API responses and network failures.
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the WTFPL License.
 
 ## 🙌 Acknowledgments
 - 🌦️ OpenWeather API for weather data.
@@ -77,4 +77,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-*Created by Jack O'Hare (0589474)*
+*Created by Jack O'Hare
